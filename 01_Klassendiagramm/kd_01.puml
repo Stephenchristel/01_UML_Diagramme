@@ -1,4 +1,16 @@
+@startuml kd
+!include tools /style.puml
 
+class kunde {
+    - name : String 
+    + getname () : String 
+
+
+
+
+}
+
+@enduml 
 
 
 
